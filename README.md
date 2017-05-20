@@ -30,3 +30,25 @@
 >   desafiadores, apoiados com treinamento técnico e feedback de desempenho;
 >   capacita ainda o mentorado a desenvolver competências específicas e senso
 >   de realização em seu papel profissional.
+>
+> O mentor fomenta o crescimento pessoal através de suporte e orientação
+> emocional. O apoio emocional contribui para a identidade profissional do
+> mentorado e pode ser essencial nodesenvolvimento da carreira. Em geral, as
+> funções psicossociais pressupõem confiança e intimidade entre mentor
+> e mentorado (KRAM, 1983). As **funções psicossociais**, segundo Kram (1985),
+> são:
+>
+> - **Modelagem de papéis**: quando as atitudes, valores e comportamento do
+>   mentor servem como um modelo digno de ser seguido pelo mentorado. O
+>   mentorado se espelha no mentor e enxerga sua própria carreira profissional.
+> - **Aceitação-e-confirmação**: se dá quando há consideração e respeito mútuo
+>   na relação. Habilita o mentorado a desenvolver seu senso de competência,
+>   adquirindo coragem para enfrentar o mundo do trabalho.
+> - **Aconselhamento**: o mentor provê conselhos que ajudam o mentorado a
+>   explorar suas preocupações que podem interferir em seu senso de
+>   autocompetência no trabalho.
+>  - **Amizade**: é caracterizada como uma função de interação social, que
+>   resulta em envolvimento mútuo e entendimento, numa troca informal sobre
+>   experiências no trabalho. A relação provê uma sensação de bem-estar e
+>   regozijo resultante da interação social informal, da ligação e da
+>   compreensão mútua.
